@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @usmyum
-- 👀 I’m interested in Development.
-- 🌱 I’m currently learning to be more proactive and part of bigger things.
-- 💞️ I’m looking to collaborate on anything that's interesting and ambitious.
+- 👀 I’m interested in Development & Learning.
+- 🌱 I’m currently working for Dashing Web Designs as a Senior PHP Developer.
+- 💞️ I always humble. We are tech people but still human. 
 - 📫 How to reach me? Just send me an email @ usmyum@gmail.com
 
 <!---
