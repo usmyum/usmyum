@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @usmyum
-- 👀 I’m interested in Development & Learning.
-- 🌱 I’m currently working for Dashing Web Designs as a Senior PHP Developer.
-- 💞️ I always humble. We are tech people but still human. 
-- 📫 How to reach me? Just send me an email @ usmyum@gmail.com
 
-<!---
-usmyum/usmyum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there, I'm @usmyum (Usman)!
+
+With Z9 years of extensive experience in PHP and backend development, along with some front-end expertise, I am a dedicated developer passionate about creating robust and scalable web applications. 
+
+**About Me:**
+- 🌱 Currently working as a Senior PHP Developer at Dashing Web Designs.
+- 👀 Enthusiastic about continuous learning and development in the tech field.
+- 💞️ Always humble, valuing the human aspect of technology.
+
+**What I Offer:**
+- Expertise in PHP Larevel and backend development.
+- Knowledge and experience in front-end technologies.
+- A collaborative and humble approach to problem-solving and development.
+- Commitment to delivering high-quality and efficient solutions.
+
+**How to Reach Me:**
+Feel free to reach out to me via email at usmyum@gmail.com.
+
+Looking forward to collaborating and contributing to exciting projects!
+
+Best,
+Usman
