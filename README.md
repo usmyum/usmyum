@@ -1,7 +1,7 @@
 
 👋 Hi there, I'm @usmyum (Usman)!
 
-With Z9 years of extensive experience in PHP and backend development, along with some front-end expertise, I am a dedicated developer passionate about creating robust and scalable web applications. 
+With ~9 years of extensive experience in PHP and backend development, along with some front-end expertise, I am a dedicated developer passionate about creating robust and scalable web applications. 
 
 **About Me:**
 - 🌱 Currently working as a Senior PHP Developer at Dashing Web Designs.
